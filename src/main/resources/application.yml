@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: accountdb
+      
+expensify-service:
+  baseUrl: https://integrations.expensify.com/Integration-Server/ExpensifyIntegrations
+  userID: aa_ghanshyam_ribadiya_it_gmail_com
+  userSecret: a56d91594112fbb5ece5bc7e319ed19c7984a22d
+  userEmail: ghanshyam.ribadiya.it@gmail.com
